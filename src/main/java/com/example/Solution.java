@@ -1,3 +1,13 @@
+/*
+* File: Solution.java
+* Author: Szücs Gyöngyi
+* Copyright: 2026, Szücs Gyöngyi
+* Group: SzoftII-E
+* Date: 2026-03-15
+* Github: https://github.com/gyongyos149/
+* Licenc: MIT
+*/
+
 package com.example;
 
 import java.util.HashMap;
